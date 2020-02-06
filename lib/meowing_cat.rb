@@ -6,13 +6,13 @@ class Cat
   end 
 end 
 
-class Dog 
-  attr_accessor :dog_name
+# class Dog 
+#   attr_accessor :dog_name
   
-  def dog_bark 
-    puts "bark!"
-  end 
-end 
+#   def dog_bark 
+#     puts "bark!"
+#   end 
+# end 
 
 
 # cat = Cat.new()
