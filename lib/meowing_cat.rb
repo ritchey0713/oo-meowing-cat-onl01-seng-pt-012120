@@ -19,5 +19,5 @@ end
 # cat.name = "kitty"
 # cat.cat_name = "kitty"
 
-cat.type
-cat.cat_type
+# cat.type
+# cat.cat_type
