@@ -8,3 +8,4 @@ end
 
 
 cat = Cat.new()
+cat.name = "kitty"
