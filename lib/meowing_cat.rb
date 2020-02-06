@@ -1,7 +1,7 @@
 class Cat 
   attr_accessor :cat_name
   
-  def meow 
+  def cat_meow 
     puts "meow!"
   end 
 end 
@@ -9,7 +9,9 @@ end
 class Dog 
   attr_accessor :dog_name
   
-  
+  def dog_bark 
+    puts "bark!"
+  end 
 end 
 
 
